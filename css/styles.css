@@ -36,8 +36,8 @@ body {
   font-weight: 700; /* kalınlık*/
   /* line-height: 21px; /*satırlar arası boşluk*/
   /* letter-spacing: 3%; harfler arasında boşluk */
-  text-transform: underline; /*link çizgisi kelimenin altında */
-  text-decoration: none;
+  text-transform: underline; /*büyük yazıya çevir */
+  text-decoration: none; /*link çizgisi kelimenin altında */
 }
 .logo-right {
   color: rgba(46, 47, 66, 1);
